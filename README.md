@@ -56,6 +56,7 @@ Full write-ups, including engineering decisions on each, are on the
 
 ## Selected projects
 
+- **[tocli](https://github.com/pratts/tocli)**: a terminal BitTorrent client with a process-per-torrent architecture, scriptable one-shot commands, and a live interactive TUI when you leave arguments off.
 - **[goroomlib](https://github.com/pratts/goroomlib)**: a thread-safe Go
   library providing a reusable Room-User architecture for real-time systems
   like chat and multiplayer games.
@@ -63,8 +64,6 @@ Full write-ups, including engineering decisions on each, are on the
   **[wazirx-connector-java](https://github.com/pratts/wazirx-connector-java)**:
   unofficial REST/WebSocket clients for the WazirX crypto exchange, both
   acknowledged by WazirX's co-founder.
-- **[tidylnk](https://admin.tidylnk.com/)**: a self-hosted URL shortener
-  with a React admin panel, built with Go, Redis, and PostgreSQL.
 - **[tts-study-assistant](https://github.com/pratts/tts-study-assistant)**:
   a Chrome extension for saving and listening to notes from any webpage,
   backed by a Go/Fiber API.
